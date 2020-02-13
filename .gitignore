@@ -123,3 +123,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+BMS운행상세이력.txt
+BMS운행이력.txt
